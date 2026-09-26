@@ -104,3 +104,4 @@ Round 2 flagged perfect timing as the riskiest pillar (0.70), so treat timing fe
 - 2026-09-22: No deaths: bail + full momentum reset; fall-off returns to last solid ground.
 - 2026-09-22: Controls: Shift sprint, Alt slide. Vision frozen.
 - 2026-09-22: JEV round 2: no design changes; perfect timing is the riskiest pillar.
+- 2026-09-26: Development moves to local Claude Code so Godot can run for verification (see HANDOFF.md).
